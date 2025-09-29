@@ -1,0 +1,3 @@
+/Users/anthonyvillalobos/Downloads/reclistsStudentVersion/cmake-build-debug/CMakeFiles/reclistsStudentVersion.dir
+/Users/anthonyvillalobos/Downloads/reclistsStudentVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anthonyvillalobos/Downloads/reclistsStudentVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
