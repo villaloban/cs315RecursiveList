@@ -67,8 +67,7 @@ list last(list p) {
 list list_pair(list p, list q) {
     if (is_null(p))
         return null();
-    if (is_atom(car(p)))
-        return cons(cons(car(p), cons(car(q), null())), list_pair(cdr(p), cdr(q)));
+    return cons(cons(car(p), cons(car(q), null())), list_pair(cdr(p), cdr(q)));
 }
 
 list firsts(list p) {
